@@ -1,0 +1,26 @@
+<?php
+return [
+    "PROGRAMACION",
+    "DESARROLLO",
+    "HERRAMIENTA",
+    "SOFTWARE",
+    "MANGO",
+    "VERGUENZA",
+    "CIELO",
+    "AMOR",
+    "FELICIDAD",
+    "LIBERTAD",
+    "FUNCION",
+    "VARIABLE",
+    "CONDICIONAL",
+    "VENTANA",
+    "BAILAR",
+    "CANCION",
+    "VIAJE",
+    "PLAYA",
+    "MAR",
+    "SETAS",
+    "BATERIA",
+    "PUERTA"
+];
+?>

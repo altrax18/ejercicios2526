@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f8f8f8;
+    color: #333;
+    margin: 40px;
+}
+
+br {
+    margin-bottom: 10px;
+}
+
+.output {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 6px;
+    max-width: 400px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
