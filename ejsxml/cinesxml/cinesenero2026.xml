@@ -1,0 +1,1467 @@
+<cartelera last-mod="09/01/2026 - 03:50">
+    <recinto id="1" value="CINES LYS">
+        <address>Pso. Ruzafa, 3</address>
+        <postcode>46002</postcode>
+        <city>Valencia</city>
+        <evento>
+            <titulo value="WOOLF WORKS (BALLET EN DIRECTO)" id="3490" uid="16830" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdwoolf-works-ballet-en-directo/3490/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG001il.jpg</caratula>
+            <calificacion />
+            <genero />
+            <duracion>155</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="09/02/2026">
+                    <sesiones>
+                        <sala value="14">20:15</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/02/2026">
+                    <sesiones>
+                        <sala value="14">16:00</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CITA A CIEGAS CON EL CINE" id="5609" uid="30913" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdcita-a-ciegas-con-el-cine/5609/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00cwq.jpg</caratula>
+            <calificacion />
+            <genero />
+            <duracion>100</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="13">19:30</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="OPERA, LA TRAVIATA" id="6819" uid="47320" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdopera-la-traviata/6819/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qdl.jpg</caratula>
+            <calificacion>Para todos los pÃºblicos</calificacion>
+            <genero>THRILLER ESPIONAJE</genero>
+            <duracion>240</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="14">19:45</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="18/01/2026">
+                    <sesiones>
+                        <sala value="14">16:00</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="RECITAL, JONAS KAUFMANN, THE SOUND OF MOVIES" id="6820" uid="47543" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdrecital-jonas-kaufmann-the-sound-of-movies/6820/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qkp.jpg</caratula>
+            <calificacion>Para todos los pÃºblicos</calificacion>
+            <genero>FANTASÃA</genero>
+            <duracion>60</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="23/01/2026">
+                    <sesiones>
+                        <sala value="10">19:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="29/01/2026">
+                    <sesiones>
+                        <sala value="10">19:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA GIOCONDA" id="6828" uid="47659" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-gioconda/6828/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qo0.jpg</caratula>
+            <calificacion />
+            <genero />
+            <duracion>166</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="19/02/2026">
+                    <sesiones>
+                        <sala value="10">19:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="GISELLE (BALLET DIRECTO)" id="6829" uid="47772" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdgiselle-ballet-directo/6829/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qrh.jpg</caratula>
+            <calificacion />
+            <genero>DRAMA ROMÃNTICA</genero>
+            <duracion>210</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="03/03/2026">
+                    <sesiones>
+                        <sala value="14">20:15</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="08/03/2026">
+                    <sesiones>
+                        <sala value="14">16:00</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ANDREA BOCELLI 30, THE CELEBRATION" id="6830" uid="47660" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdandrea-bocelli-30-the-celebration/6830/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qo1.jpg</caratula>
+            <calificacion />
+            <genero />
+            <duracion>148</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="22/03/2026">
+                    <sesiones>
+                        <sala value="10">19:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SIEGFRIED (Ã“PERA DIRECTO)" id="6831" uid="47773" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdsiegfried-opera-directo/6831/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qri.jpg</caratula>
+            <calificacion />
+            <genero />
+            <duracion>330</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="31/03/2026">
+                    <sesiones>
+                        <sala value="14">18:15</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LOS DOMINGOS" id="6877" uid="46506" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdlos-domingos/6877/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00pq1.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>116</duracion>
+            <sinopsis>Ainara (Blanca Soroa), una joven idealista y brillante de 17 aÃ±os, ha de
+                decidir quÃ© carrera universitaria estudiarÃ¡. O, al menos, eso espera su familia
+                que haga. Sin embargo, la joven manifiesta que se siente cada vez mÃ¡s cerca de Dios
+                y que se plantea abrazar la vida de monja de clausura. La noticia pilla por sorpresa
+                a toda la familia provocando un abismo y una prueba de fuego para todos.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Wk57pYX-YT4</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="1">22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="1">22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="1">22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="1">20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="1">20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="1">22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="1">20:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA INVASIÃ“ DELS BÃ€RBARS" id="6895" uid="47090" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-invasio-dels-barbars/6895/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00q7a.jpg</caratula>
+            <calificacion>No rec. a menores de 16 aÃ±os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>117</duracion>
+            <sinopsis>En 1939, Esperanza, una joven conservadora del Museo del Prado es interrogada
+                por la desapariciÃ³n de un cuadro que un coronel quiere incautar. Ochenta aÃ±os
+                despuÃ©s, su nieta Aurora busca sus restos en una de las fosas comunes del
+                franquismo.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=0MRVc3rW4kM</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="14">16:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="14">16:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="14">16:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="14">16:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="14">16:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="14">16:00</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="WICKED PARTE II" id="6923" uid="47106" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdwicked-parte-ii/6923/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qa8.jpg</caratula>
+            <calificacion>No rec. a menores de 7 aÃ±os</calificacion>
+            <genero>MUSICAL</genero>
+            <duracion>138</duracion>
+            <sinopsis>Segunda parte de la adaptaciÃ³n cinematogrÃ¡fica del musical de Broadway. El
+                capÃ­tulo final de la historia jamÃ¡s contada de las brujas de Oz comienza con
+                Elphaba y Glinda distanciadas y viviendo las consecuencias de sus respectivas
+                decisiones. Mientras la multitud alza su clamor contra la Bruja Malvada, ambas
+                deberÃ¡n unirse una vez mÃ¡s. Con su singular amistad convertida en el punto de
+                inflexiÃ³n de su futuro, tendrÃ¡n que mirarse a los ojos con honestidad y compasiÃ³n
+                para afrontar su transformaciÃ³n personal y cambiar el destino de todo Oz.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=wweDnEbMvtY</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="5">22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="5">22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="5">22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="5">22:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ZOOTRÃ“POLIS 2" id="6941" uid="47183" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdzootropolis-2/6941/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qac.jpg</caratula>
+            <calificacion>Para todos los pÃºblicos</calificacion>
+            <genero>ANIMACIÃ“N</genero>
+            <duracion>107</duracion>
+            <sinopsis>Judy y Nick se encuentran tras la retorcida pista de un misterioso reptil que
+                llega a Zootopia y pone patas arriba la metrÃ³polis de los mamÃ­feros. Para resolver
+                el caso, Judy y Nick deben ir de incÃ³gnito a nuevas partes inesperadas de la
+                ciudad, donde su creciente asociaciÃ³n se pone a prueba como nunca antes.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=T1duVMbWjbY</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="3">16:00,18:20</sala>
+                        <sala value="10">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="3">16:00,18:20</sala>
+                        <sala value="10">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="3">16:00,18:20</sala>
+                        <sala value="10">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="3">16:00,18:20</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="3">16:00,18:20</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="3">16:00,18:20</sala>
+                        <sala value="10">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="3">16:00,18:20</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="NÃšREMBERG" id="6943" uid="47406" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdnuremberg/6943/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qgo.jpg</caratula>
+            <calificacion>No rec. a menores de 16 aÃ±os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>148</duracion>
+            <sinopsis>Tras el fin de la II Guerra Mundial, con ocasiÃ³n de los cruciales juicios de
+                Nuremberg de los Aliados contra el derrotado rÃ©gimen nazi, el psiquiatra
+                estadounidense Douglas Kelley (Malek), encargado de determinar si los prisioneros
+                oficiales nazis son aptos para ser juzgados por sus crÃ­menes de guerra, se ve
+                inmerso en una compleja batalla de ingenio con Hermann GÃ¶ring (Crowe), mano derecha
+                de Hitler. Basada en el libro "El nazi y el psiquiatra" de Jack El-Hai.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Wq0S6a3vFPM</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="11">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="11">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="11">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="11">19:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="11">19:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="11">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="FLORES PARA ANTONIO" id="6947" uid="47081" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdflores-para-antonio/6947/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00q71.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>DOCUMENTAL</genero>
+            <duracion>98</duracion>
+            <sinopsis>Una hija se dispone a buscar la verdad sobre quiÃ©n fue su padre, un mÃºsico
+                legendario, fallecido cuando ella tenÃ­a 8 aÃ±os. Ã‰l es Antonio Flores, ella la
+                tambiÃ©n cÃ©lebre actriz Alba Flores. Alba dejÃ³ de cantar al perder a Antonio y
+                ahora se dispone a recuperar su voz y su historia, preguntando por primera vez a sus
+                familiares y amigos.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=ryGeYp6wcws</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="8">22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="8">22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="8">22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="11">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="11">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="8">22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="11">17:00</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="FIVE NIGHTS AT FREDDY'S 2" id="6954" uid="47449" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdfive-nights-at-freddys-2/6954/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qi0.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>TERROR</genero>
+            <duracion>104</duracion>
+            <sinopsis>Ha transcurrido un aÃ±o desde la pesadilla sobrenatural en la pizzerÃ­a de
+                Freddy Fazbear. La historia de lo que ocurriÃ³ allÃ­ ha ido adquiriendo la talla de
+                leyenda local, e incluso ha dado pie al primer Faszfest . El exguarda de seguridad
+                Mike y la agente de policÃ­a Vanessa han ocultado la verdad a Abby, la hermana de 11
+                aÃ±os de Mike, acerca del destino de sus amigos animatrÃ³nicos. Pero cuando Abby
+                decide reconectar con Freddy, Bonnie, Chica y Foxy, desatarÃ¡ una serie de
+                acontecimientos aterradores que revelarÃ¡n oscuros secretos sobre el verdadero
+                origen de Freddy s, desencadenando un horror que llevaba dÃ©cadas escondido y
+                olvidado.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=d_St1yVHIsI</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="11">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="11">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="11">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="11">17:00</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL REY DE REYES" id="6959" uid="47359" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdel-rey-de-reyes/6959/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qfg.jpg</caratula>
+            <calificacion>No rec. a menores de 7 aÃ±os</calificacion>
+            <genero>ANIMACIÃ“N</genero>
+            <duracion>101</duracion>
+            <sinopsis>La historia de Jesucristo contada por Charles Dickens y vista a travÃ©s de los
+                inocentes ojos de un niÃ±o. Al famoso narrador Charles Dickens le resulta difÃ­cil
+                establecer un vÃ­nculo con su imaginativo hijo, Walter, debido a su ajetreada
+                carrera. DespuÃ©s de que Walter interrumpa una de las lecturas de Dickens, Ã©ste
+                decide compartir con Ã©l la historia de Jesucristo, con la esperanza de salvar la
+                distancia que los separa. A medida que Dickens narra la historia, Walter queda
+                cautivado y experimenta vÃ­vidamente los acontecimientos de la vida de JesÃºs. A
+                travÃ©s del viaje de JesÃºs, la relaciÃ³n entre Walter y Dickens se profundiza,
+                culminando en un vÃ­nculo de amor forjado a travÃ©s de la narraciÃ³n.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=SLusODgFIEc</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="1">16:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="1">16:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="1">16:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="1">16:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="AVATAR 3D (HFR): FUEGO Y CENIZA" id="6965" uid="47845" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/3davatar-3d-hfr-fuego-y-ceniza/6965/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qtm.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>197</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="4">16:35,20:35</sala>
+                        <sala value="7">22:00</sala>
+                        <sala value="8">18:45</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="4">16:35,20:35</sala>
+                        <sala value="7">22:00</sala>
+                        <sala value="8">18:45</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="4">16:35,20:35</sala>
+                        <sala value="7">22:00</sala>
+                        <sala value="8">18:45</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="4">16:35,20:35</sala>
+                        <sala value="8">18:45</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="4">16:35,20:35</sala>
+                        <sala value="8">18:45</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="4">16:35,20:35</sala>
+                        <sala value="7">22:00</sala>
+                        <sala value="8">18:45</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="4">16:35,20:35</sala>
+                        <sala value="8">18:45</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="AVATAR 2D (HFR): FUEGO Y CENIZA" id="6966" uid="47846" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdavatar-2d-hfr-fuego-y-ceniza/6966/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qtn.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>197</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="12">16:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="12">16:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="12">16:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="12">16:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="12">16:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="12">16:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="12">16:00</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="VIDA PRIVADA" id="6969" uid="47695" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdvida-privada/6969/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qpb.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>103</duracion>
+            <sinopsis>La reputada psiquiatra Lilian Steiner emprende una investigaciÃ³n privada
+                sobre la muerte de uno de sus pacientes, del que estÃ¡ convencida que ha sido
+                asesinado.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=9g1PiDfWF4c</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="1">18:35,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="1">18:35,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="1">18:35,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="1">16:20,18:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="1">16:20,18:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="1">18:35,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="1">16:20,18:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="RONDALLAS" id="6971" uid="47689" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdrondallas/6971/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qp9.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>COMEDIA DRAMÃTICA</genero>
+            <duracion>112</duracion>
+            <sinopsis>Dos aÃ±os despuÃ©s del trÃ¡gico naufragio de un barco pesquero que sacudiÃ³ a
+                un pequeÃ±o pueblo marinero gallego, los habitantes del pueblo deciden que ya es
+                hora de recuperar la ilusiÃ³n y dejar el luto atrÃ¡s. Por ello vuelven a unirse para
+                poner en marcha la rondalla, una agrupaciÃ³n de mÃºsica tradicional en la que
+                participan desde niÃ±os hasta ancianos, con la intenciÃ³n de competir en un concurso
+                contra los pueblos vecinos, pero sobre todo de empezar a mirar hacia delante de
+                nuevo.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=0GU0DXYcjJk</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="14">18:20,20:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="14">18:20,20:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="14">18:20,20:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="14">18:20,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="14">18:20,20:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="FATHER MOTHER SISTER BROTHER" id="6972" uid="47534" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdfather-mother-sister-brother/6972/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qkt.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>COMEDIA DRAMÃTICA</genero>
+            <duracion>110</duracion>
+            <sinopsis>PelÃ­cula dividida en tres actos alrededor del mismo hecho: el reencuentro de
+                miembros de una familia. Unos hermanos ya adultos se vuelven a juntar despuÃ©s de
+                aÃ±os sin verse, forzados a enfrentarse a tensiones no resueltas y a reevaluar sus
+                tensas relaciones con unos padres emocionalmente distantes. Cada una de las tres
+                historias tiene lugar en un paÃ­s diferente: "Father" estÃ¡ ambientada en EE. UU.,
+                "Mother" en DublÃ­n, y "Sister Brother" en ParÃ­s.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Len_6SnoL5c</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="3">20:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="3">20:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="3">20:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="3">20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="3">20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="3">20:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="3">20:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="HOMO ARGENTUM" id="6973" uid="47742" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdhomo-argentum/6973/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qqo.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>99</duracion>
+            <sinopsis>PelÃ­cula compuesta por 16 historias cortas que exploran con humor y
+                autocrÃ­tica las particularidades de la cultura argentina. Cada relato, con tono
+                satÃ­rico, refleja costumbres, conductas y actitudes propias del paÃ­s, invitando a
+                la reflexiÃ³n desde la risa y destacando la capacidad del cine para retratar
+                aspectos de la identidad nacional.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=RXcx0BF5jO8</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="10">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="10">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="10">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="10">17:00,19:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="10">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="10">17:00,19:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ANACONDA" id="6974" uid="47741" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdanaconda/6974/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qqn.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>ACCIÃ“N</genero>
+            <duracion>100</duracion>
+            <sinopsis>Doug y Griff son muy buenos amigos desde que eran niÃ±os y siempre han soÃ±ado
+                con hacer un remake de su pelÃ­cula favorita de todos los tiempos: el clÃ¡sico
+                cinematogrÃ¡fico Anaconda. Cuando una crisis de mediana edad les anima a lanzarse
+                por fin a la aventura, se adentran en la selva amazÃ³nica para empezar a rodar. Pero
+                las cosas se ponen serias cuando aparece una anaconda gigante de verdad,
+                convirtiendo su caÃ³tico y cÃ³mico platÃ³ de rodaje en una situaciÃ³n mortal. Â¿La
+                pelÃ­cula que se morÃ­an por hacer, podrÃ­a ser la que les mate?</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=FVPjkbmgX74</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="6">16:35,18:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="6">16:35,18:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="6">16:35,18:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="6">16:35,18:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="6">16:35,18:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="6">16:35,18:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="6">16:35,18:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="BOB ESPONJA: UNA AVENTURA PIRATA" id="6975" uid="47740" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdbob-esponja-una-aventura-pirata/6975/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qqm.jpg</caratula>
+            <calificacion>Para todos los pÃºblicos</calificacion>
+            <genero>ANIMACIÃ“N</genero>
+            <duracion>88</duracion>
+            <sinopsis>Desesperado por demostrar que es un tÃ­o grande, Bob Esponja decide demostrar
+                su valentÃ­a ante el seÃ±or Cangrejo siguiendo al HolandÃ©s Errante, el misterioso
+                legendario pirata fantasma. AsÃ­ comienza una aventura marÃ­tima que lo lleva a las
+                profundidades mÃ¡s remotas del ocÃ©ano, donde ninguna esponja ha llegado jamÃ¡s.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=VPBk6izFecU</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="8">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="8">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="8">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="8">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="8">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="8">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="8">17:00</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CINE CLUB LYS, RONDALLAS" id="6976" uid="47923" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdcine-club-lys-rondallas/6976/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qvw.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>112</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="10">16:30,19:30</sala>
+                        <sala value="14">18:00</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="EL MÃ‰DICO II" id="6977" uid="47747" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdel-medico-ii/6977/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qqt.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>AVENTURAS</genero>
+            <duracion>143</duracion>
+            <sinopsis>Huyendo de IsfahÃ¡n, el mÃ©dico Rob Cole llega a Londres decidido a compartir
+                su conocimiento mÃ©dico. En medio de las intrigas de la corte, lucha por salvar
+                vidas y alcanzar el reconocimiento, mientras enfrenta el desafÃ­o humano mÃ¡s
+                profundo: aliviar el sufrimiento.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=yCB7jtzN7Iw</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="12">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="12">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="12">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="12">19:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="12">19:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="12">19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="12">19:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="LA ASISTENTA" id="6978" uid="47745" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hdla-asistenta/6978/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qqr.jpg</caratula>
+            <calificacion>No rec. a menores de 16 aÃ±os</calificacion>
+            <genero>THRILLER</genero>
+            <duracion>131</duracion>
+            <sinopsis>Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como
+                asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de
+                la familia, descubrirÃ¡ secretos oscuros que pondrÃ¡n en peligro su seguridad, pero
+                quizÃ¡ ya sea demasiado tarde... AdaptaciÃ³n de la novela de Freida McFadden.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=IMrebLqjVVQ</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="6">20:35</sala>
+                        <sala value="9">16:00,18:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="6">20:35</sala>
+                        <sala value="9">16:00,18:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="6">20:35</sala>
+                        <sala value="9">16:00,18:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="6">20:35</sala>
+                        <sala value="9">16:00,18:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="6">20:35</sala>
+                        <sala value="9">16:00,18:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="6">20:35</sala>
+                        <sala value="9">16:00,18:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="6">20:35</sala>
+                        <sala value="9">16:00,18:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="ABUELA TREMENDA" id="6979" uid="47746" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdabuela-tremenda/6979/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qqs.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>87</duracion>
+            <sinopsis>ToÃ±i no es una abuela cualquiera. Es un torbellino, un alma libre que se mete
+                siempre en lÃ­os. A su hija Daniela la trae un poco de cabeza, pero su nieta Alexia
+                la adora. Por eso, cuando Daniela se lleva a Alexia a un retiro rural de su empresa,
+                ToÃ±i no duda en presentarse allÃ­ con su caravana para pasar tiempo con su nieta y
+                animar el cotarro a toda costa. ToÃ±i pondrÃ¡ patas arriba el retiro y el trabajo de
+                Daniela y, sin querer, tambiÃ©n pondrÃ¡ algunas cosas en su sitio.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Hg7odkhWUtc</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="7">16:20,18:10,20:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="7">16:20,18:10,20:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="7">16:20,18:10,20:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="7">16:20,18:10,20:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="7">16:20,18:10,20:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="7">16:20,18:10,20:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="7">16:20,18:10,20:00</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="PROYECTO VIRIDIANA, LA TARTA DEL PRESIDENTE" id="6980" uid="47968" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdproyecto-viridiana-la-tarta-del-presidente/6980/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qx6.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>105</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="11">20:00</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="RENTAL FAMILY (FAMILIA DE ALQUILER)" id="6981" uid="47830" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdrental-family-familia-de-alquiler/6981/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qt8.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>109</duracion>
+            <sinopsis>Ambientada en el Tokio actual, sigue a un actor estadounidense que lucha por
+                encontrar un propÃ³sito en la vida hasta que consigue un trabajo inusual: trabajar
+                para una agencia japonesa de "familias de alquiler", interpretando papeles de
+                suplente para desconocidos. A medida que se sumerge en el mundo de sus clientes,
+                comienza a establecer vÃ­nculos genuinos que difuminan las lÃ­neas entre la
+                actuaciÃ³n y la realidad. Al enfrentarse a las complejidades morales de su trabajo,
+                redescubre el propÃ³sito, la pertenencia y la tranquila belleza de las relaciones
+                humanas.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=G0j6idKhxHc</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="5">16:20,18:35,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="5">16:20,18:35,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="5">16:20,18:35,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="5">16:20,18:35,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="5">16:20,18:35,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="5">16:20,18:35,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="5">16:20,18:35,20:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="SONG SUNG BLUE: CANCIÃ“N PARA DOS" id="6982" uid="47829" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdsong-sung-blue-cancion-para-dos/6982/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qt7.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>132</duracion>
+            <sinopsis>Basada en una historia real, narra la historia de dos mÃºsicos de poca fortuna
+                (Hugh Jackman y Kate Hudson) que se lanzan con ilusiÃ³n a formar una banda tributo a
+                Neil Diamond, demostrando que nunca es demasiado tarde para encontrar el amor y
+                cumplir tus sueÃ±os.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=JCgkpDbtP98</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="13">17:00,19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="13">17:00,19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="13">17:00,19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="13">17:00,19:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="13">17:00</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="13">17:00,19:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="13">17:00,19:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="NOUVELLE VAGUE" id="6983" uid="47516" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdnouvelle-vague/6983/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qk8.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>COMEDIA DRAMÃTICA</genero>
+            <duracion>106</duracion>
+            <sinopsis>La historia detrÃ¡s de la creaciÃ³n del movimiento cinematogrÃ¡fico francÃ©s
+                conocido como 'Nouvelle Vague', centrÃ¡ndose en la producciÃ³n de la innovadora
+                pelÃ­cula de Jean-Luc Godard 'Al final de la escapada', en 1959.</sinopsis>
+            <trailer>https://www.youtube.com/watch?v=Gtz8Z4AuCSk</trailer>
+            <fechas>
+                <fecha value="09/01/2026">
+                    <sesiones>
+                        <sala value="2">16:15,18:25,20:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="10/01/2026">
+                    <sesiones>
+                        <sala value="2">16:15,18:25,20:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/01/2026">
+                    <sesiones>
+                        <sala value="2">16:15,18:25,20:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="12/01/2026">
+                    <sesiones>
+                        <sala value="2">16:15,18:25,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="13/01/2026">
+                    <sesiones>
+                        <sala value="2">16:15,18:25,20:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="14/01/2026">
+                    <sesiones>
+                        <sala value="2">16:15,18:25,20:35,22:35</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="15/01/2026">
+                    <sesiones>
+                        <sala value="2">16:15,18:25,20:35</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="40 ANIVERSARIO, DENTRO DEL LABERINTO" id="6984" uid="47981" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hd40-aniversario-dentro-del-laberinto/6984/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qxj.jpg</caratula>
+            <calificacion>Para todos los pÃºblicos</calificacion>
+            <genero>CIENCIA FICCIÃ“N</genero>
+            <duracion>101</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="21/01/2026">
+                    <sesiones>
+                        <sala value="10">19:30</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="" id="6985" uid="0" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hd/6985/</compra>
+            <caratula>https://www.reservaentradas.com/public/www/img/carteles/nodisponible.jpg</caratula>
+            <calificacion />
+            <genero />
+            <duracion />
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="28/01/2026">
+                    <sesiones>
+                        <sala value="10">19:30</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/02/2026">
+                    <sesiones>
+                        <sala value="10">19:30</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="" id="6986" uid="0" />
+            <compra>https://www.reservaentradas.com/sesiones/valencia/cineslys/hd/6986/</compra>
+            <caratula>https://www.reservaentradas.com/public/www/img/carteles/nodisponible.jpg</caratula>
+            <calificacion />
+            <genero />
+            <duracion />
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="28/01/2026">
+                    <sesiones>
+                        <sala value="10">19:30</sala>
+                    </sesiones>
+                </fecha>
+                <fecha value="11/02/2026">
+                    <sesiones>
+                        <sala value="10">19:30</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CICLO AZCONA, EL VERDUGO" id="6988" uid="47982" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdciclo-azcona-el-verdugo/6988/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qxk.jpg</caratula>
+            <calificacion>Para todos los pÃºblicos</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>87</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="22/01/2026">
+                    <sesiones>
+                        <sala value="8">19:30</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CICLO AZCONA, LA VAQUILLA" id="6989" uid="47983" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdciclo-azcona-la-vaquilla/6989/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qxl.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>122</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="05/02/2026">
+                    <sesiones>
+                        <sala value="8">19:30</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CICLO AZCONA, Â¡AY CARMELA!" id="6990" uid="47984" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdciclo-azcona-ay-carmela/6990/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qxm.jpg</caratula>
+            <calificacion>Para todos los pÃºblicos</calificacion>
+            <genero>COMEDIA</genero>
+            <duracion>102</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="19/02/2026">
+                    <sesiones>
+                        <sala value="8">19:30</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+        <evento>
+            <titulo value="CICLO SCORSESE, TORO SALVAJE" id="6991" uid="48009" />
+            <compra>
+                https://www.reservaentradas.com/sesiones/valencia/cineslys/hdciclo-scorsese-toro-salvaje/6991/</compra>
+            <caratula>
+                https://portal.reservaentradas.com/portal/obj/ReservaEntradas_dat_dat/eventos/JPG00qyd.jpg</caratula>
+            <calificacion>No rec. a menores de 12 aÃ±os</calificacion>
+            <genero>DRAMA</genero>
+            <duracion>128</duracion>
+            <sinopsis />
+            <trailer />
+            <fechas>
+                <fecha value="25/02/2026">
+                    <sesiones>
+                        <sala value="10">19:30</sala>
+                    </sesiones>
+                </fecha>
+            </fechas>
+        </evento>
+    </recinto>
+</cartelera>

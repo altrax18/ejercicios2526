@@ -1,0 +1,78 @@
+body {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #333;
+}
+
+h1 {
+    font-size: 3em;
+    color: white;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.peliculas {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 30px;
+}
+
+
+.poster {
+    position: relative;
+    padding-top: 150%;
+    overflow: hidden;
+}
+
+.poster img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.titulo {
+    font-size: 1.3em;
+    margin: 0 0 10px 0;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.enlaces{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    
+}
+
+.sesiones {
+    border-top: 1px solid #333;
+    color: red;
+    padding-top: 15px;
+}
+
+.horarios {
+    color: white;
+}
+
+.hora {
+    padding: 10px;
+}
