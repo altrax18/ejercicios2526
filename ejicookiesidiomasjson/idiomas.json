@@ -1,0 +1,30 @@
+{
+  "español": {
+    "nombre": "Nombre:",
+    "apellidos": "Apellidos:",
+    "edad": "Edad:",
+    "experiencia": "Experiencia Laboral:",
+    "enviar": "Enviar"
+  },
+  "ingles": {
+    "nombre": "Name:",
+    "apellidos": "Surname:",
+    "edad": "Age:",
+    "experiencia": "Work Experience:",
+    "enviar": "Submit"
+  },
+  "frances": {
+    "nombre": "Prénom:",
+    "apellidos": "Nom de famille:",
+    "edad": "Âge:",
+    "experiencia": "Expérience professionnelle:",
+    "enviar": "Soumettre"
+  },
+  "aleman": {
+    "nombre": "Vorname:",
+    "apellidos": "Nachname:",
+    "edad": "Alter:",
+    "experiencia": "Berufserfahrung:",
+    "enviar": "Einreichen"
+  }
+}
